@@ -1,0 +1,45 @@
+img{
+    width:100% ;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+}
+.navbar{
+    background: linear-gradient(to right, rgb(123, 122, 217), white, rgb(67, 47, 213));
+}
+.fon-1{
+    background: linear-gradient( to top,  white, rgb(97, 173, 255));
+    padding-top: 50px;padding-bottom: 50px;margin-top: 60px;margin-bottom: 70px;
+}
+.my-card-1 img{
+    width: 30%;
+}
+.my-card-2 img{
+    width: 40%;
+}
+.my-card-2  {
+    border: 1px solid lightblue;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+.fon-2{
+    border-radius: 20px;
+    background: linear-gradient( to right bottom,  rgb(115, 110, 129), rgb(195, 142, 255), rgb(61, 8, 110));
+    margin-bottom: 70px;
+    margin-top: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.list {
+    list-style-image:url(list-img.png ) ;
+}
+.fon-3{
+    background:linear-gradient( to right, #867fd3, #baadfe ) ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 70px;
+    margin-bottom:70px ;
+    border-radius: 20px;
+}
